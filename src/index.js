@@ -6,6 +6,9 @@ import * as serviceWorker from './serviceWorker';
 
 import { Provider } from 'react-redux';
 
+// hello!
+
+
 import store, { history } from './store/store';
 
 ReactDOM.render(
